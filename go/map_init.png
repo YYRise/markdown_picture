@@ -1,0 +1,29 @@
+--2019-09-05 22:26:52--  https://user-images.githubusercontent.com/7698088/57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png
+Resolving user-images.githubusercontent.com... 151.101.76.133
+Connecting to user-images.githubusercontent.com|151.101.76.133|:443... failed: Operation timed out.
+Retrying.
+
+--2019-09-05 22:28:08--  (try: 2)  https://user-images.githubusercontent.com/7698088/57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png
+Connecting to user-images.githubusercontent.com|151.101.76.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157837 (154K) [image/png]
+Saving to: '57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png'
+
+     0K .......... .......... .......... .......... .......... 32%  510  3m29s
+    50K .......... ...                                         41% 51.8M=1m40s
+
+2019-09-05 22:45:02 (647 B/s) - Read error at byte 65006/157837 (Success). Retrying.
+
+--2019-09-05 22:45:04--  (try: 3)  https://user-images.githubusercontent.com/7698088/57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png
+Connecting to user-images.githubusercontent.com|151.101.76.133|:443... connected.
+HTTP request sent, awaiting response... 206 Partial Content
+Length: 157837 (154K), 92831 (91K) remaining [image/png]
+Saving to: '57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png'
+
+        [ skipping 50K ]
+    50K ,,,,,,,,,, ,,,....... .......... .......... .......... 64% 45.2K 2s
+   100K .......... .......... .......... .......... .......... 97% 25.4K 0s
+   150K ....                                                  100% 4.48K=4.0s
+
+2019-09-05 22:45:12 (22.7 KB/s) - '57980268-a4fa7200-7a5b-11e9-9ad1-fb2b64fe3159.png' saved [157837/157837]
+
